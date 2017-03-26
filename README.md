@@ -1,7 +1,8 @@
 # 2048
-A 2048 game clone with Python and pygame
+A 2048 game clone with Python and pygame. The project is based on the code developed for the second week assignment of the course *Principles of Computing (Part 1)* offered by Rice University on Coursera.
 
-## Screenshots
+
+## Game screenshots
 
 ![alt text](https://github.com/juangallostra/2048/blob/master/game_screenshots/2048_2_c.png)
 
