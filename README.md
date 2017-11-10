@@ -1,5 +1,5 @@
 # 2048
-A 2048 game clone with Python and pygame
+A 2048 game clone developed with Python and Pygame
 
 ## Screenshots
 
@@ -9,7 +9,7 @@ A 2048 game clone with Python and pygame
 
 
 ## Requirements
-* Python 3.5
-* Pygame 1.9.3 (It probably works with other versions but I haven't tested it.)
+* ```Python 3.5```
+* ```Pygame 1.9.3``` (It probably works with other versions but I haven't tested it.)
 
 
